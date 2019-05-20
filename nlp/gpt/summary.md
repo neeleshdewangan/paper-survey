@@ -1,7 +1,8 @@
 #### Paper
-- Link:
-- Author:
-- Conference:
+- Link: [Here](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
+- Blog: https://openai.com/blog/language-unsupervised/
+- Author: OpenAI people
+- Conference: ??
 
 #### Outline
 - [ ] Abstract
