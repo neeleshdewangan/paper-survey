@@ -19,8 +19,7 @@
     - Multilayer Transformer Decoder ??
 <div class="image-with-text">
   <img src="images/language-model-transformer.png" width="50%" height="75%">
-  <text> ( W_e: embedding matrix, W_p: position embedding, U: context vector ) </text>
-  <br />
+  <p> ( W_e: embedding matrix, W_p: position embedding, U: context vector ) </p>
 </div>
 
 - Supervised fine tuning
