@@ -26,7 +26,6 @@
   - training objective:
 <div class="image-with-text">
   <img src="images/language-model-objective.png" width="30%" height="30%">
-  <p> ( W_e: embedding matrix, W_p: position embedding, U: context vector ) </p>
 </div>
 
 - Supervised fine tuning
